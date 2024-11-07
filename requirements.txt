@@ -1,1 +1,2 @@
 Flask
+gunicorn  #ta knjižnica pythonu omogoča, da pyhton deluje na spletu
